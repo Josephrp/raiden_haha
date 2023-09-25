@@ -1,4 +1,4 @@
-takes a screenshot of your window every N seconds, OCR, gpt writes joke and TTS play it
+takes a screenshot of your window every N seconds, OCR, gpt writes joke and TTS plays it
 
 * run `npm i` to install
 * setup your openai key in `haha.js`
